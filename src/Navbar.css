@@ -1,0 +1,22 @@
+body{
+    margin-left: 5px;
+}
+*{
+    align-items: stretch;
+}
+.nav1{
+    background-color: teal;
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+}
+.mynav{
+    background-color: blueviolet;
+    border-radius: 0px 0px 5px;
+}
+.item{
+    margin:3px 3px ;
+    background-color: aquamarine;
+}
+.navbar-nav > .active > Link { 
+    background-color: color ; 
+}

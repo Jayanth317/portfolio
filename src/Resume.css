@@ -1,0 +1,9 @@
+.App{
+    height:fit-content;
+    background-color: aliceblue;
+    max-height: fit-content;
+    align-items: center;
+}
+div{
+    max-height: 1000px;
+}
