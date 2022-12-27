@@ -1,7 +1,7 @@
 import React from 'react';
 import StickyNote from './Stickynotes';
 import './Stickynotes.css';
-
+ 
 class Stickynotes extends React.Component {
   state = {
     notes: [
